@@ -22,8 +22,8 @@ npm install
 - After running the above commands the app is ready to run.
 
 ```
-- `-t` is used to give title for your note.
-- `-b` is used to give body/Description or the actual note to your note.
+- [ -t ] is used to give title for your note.
+- [ -b ] is used to give body/Description or the actual note to your note.
 - you can see below how these commands are used
 ```
 
